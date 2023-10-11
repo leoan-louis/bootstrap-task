@@ -1,0 +1,19 @@
+.boxpart{
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    margin: 40px ;
+    height: 250px;
+
+}
+
+.box{
+    background-color: lightgray;
+    padding: 20px;
+}
+
+img{
+    height: 40px;
+    width: 40px;
+    color: blue;
+}
